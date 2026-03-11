@@ -1,6 +1,6 @@
-# SimilarWeb Plugins for Claude Code
+# SimilarWeb Plugins for Cowork
 
-A plugin marketplace for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) — SimilarWeb intelligence tools for ecommerce, competitive analysis, and market research.
+A plugin marketplace for [Cowork](https://claude.ai/download) — SimilarWeb intelligence tools for ecommerce, competitive analysis, and market research.
 
 ## Quick Start
 
